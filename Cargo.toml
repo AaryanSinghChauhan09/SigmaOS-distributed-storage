@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-distributed-storage"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS distributed-storage component - cloud"
+
+[lib]
+name = "distributed_storage"
+path = "src/lib.rs"
