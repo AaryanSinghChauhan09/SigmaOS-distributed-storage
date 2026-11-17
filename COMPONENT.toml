@@ -3,7 +3,7 @@ name = "SigmaOS-distributed-storage"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "distributed-storage component"
+description = "Distributed Storage"
 upstream = []
 
 [contract]
