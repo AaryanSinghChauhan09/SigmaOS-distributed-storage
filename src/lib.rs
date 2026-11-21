@@ -4,6 +4,9 @@
 //! Real implementation: storages, events, validation, deterministic storage.
 //! Replaces the placeholder stub.
 
+/// Distributed filesystem: nodes, volumes, cluster health.
+pub mod sigmadistfs;
+
 use std::collections::BTreeMap;
 use std::fmt;
 
